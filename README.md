@@ -2,6 +2,9 @@
 
 This is a readme file for CSCC224 Exercise 6.
 
+Link to Github repo:
+https://github.com/Minjun1Kim/CSCC24_E6
+
 What's included in the repository:
 - the presentation slides
 - the C++ source code demonstrating examples and usage of Higher Order Procedures
