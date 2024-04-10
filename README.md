@@ -10,6 +10,7 @@ What's included in the repository:
 - the C++ source code demonstrating examples and usage of Higher Order Procedures
 - the link to the recorded videos.
 
+We had a problem combining two videos due to file size.
 Part 1 (lambda & filter)
 https://drive.google.com/file/d/1pcjkOo9HXCuv4AeSvyrwF4CUN3z2ocD4/view
 
