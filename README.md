@@ -11,6 +11,7 @@ Part 1 (lambda & filter)
 https://drive.google.com/file/d/1pcjkOo9HXCuv4AeSvyrwF4CUN3z2ocD4/view
 
 Part 2 (map & fold)
+https://youtu.be/HIGshMl53oU
 
 
 
