@@ -12,4 +12,17 @@ https://drive.google.com/file/d/1pcjkOo9HXCuv4AeSvyrwF4CUN3z2ocD4/view
 
 Part 2 (map & fold)
 
+
+
+To clean output & run the code with the Makefile at the same time:
+
+```Shell
+$ Make
+```
+
+To remove output:
+```
+$ Make clean
+```
+
 Please enjoy our mini lecture :)
